@@ -1,0 +1,14 @@
+Explain the different types of linked lists (Singly Linked List, Doubly Linked List).
+
+Ans) A Singly Linked List is a type of linked list where each node contains data and a reference (or pointer) to the next node in the sequence. The last node in the list points to null, indicating the end of the list.
+Operations:-
+1)Traversal: To access elements, you start from the head and follow the next pointers until you reach the desired node or the end of the list.
+2)Insertion: To insert a new node, adjust the next pointers to include the new node in the desired position.
+3)Deletion: To delete a node, adjust the next pointer of the previous node to bypass the node being deleted.
+
+A Doubly Linked List is a type of linked list where each node contains data, a reference to the next node, and a reference to the previous node. This allows traversal in both directions (forward and backward).
+Operations:-
+1)Traversal: You can traverse the list forward from the head or backward from the tail.
+2)Insertion: To insert a new node, adjust both next and prev pointers to include the new node in the desired position.
+3)Deletion: To delete a node, adjust the next pointer of the previous node and the prev pointer of the next node to bypass the node being deleted.
+
