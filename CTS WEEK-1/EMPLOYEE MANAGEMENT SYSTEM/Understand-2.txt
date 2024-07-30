@@ -1,8 +1,0 @@
-Discuss the types of data structures suitable for this problem.
-
-Ans) In an inventory management system, various data structures can be employed to efficiently store, manage, and retrieve inventory information. An Array List, a resizable array implementation of the List interface in Java, can be a suitable choice for certain aspects of inventory management due to its dynamic size and ease of access. Here are some considerations for using an Array List and other suitable data structures.
-
-Advantages:
-1)Dynamic Resizing: Array Lists automatically resize themselves as elements are added or removed, making them more flexible than arrays.
-2)Random Access: Array Lists provide constant-time access (O(1)) to elements by index, which can be useful for quick lookups.
-3)Ease of Use: Array Lists are part of the Java Collections Framework, providing built-in methods for adding, removing, and managing elements.
