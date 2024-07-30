@@ -1,0 +1,9 @@
+Explain how arrays are represented in memory and their advantages.
+
+Ans) Arrays are a fundamental data structure with contiguous memory allocation, allowing constant-time access to elements via indexing. Their advantages include memory efficiency, cache friendliness, simplicity, and support for both static and dynamic sizes, making them suitable for a wide range of applications in computer science.
+Advantages of Arrays:-
+1)Constant Time Access
+2)Memory Efficiency
+3)Cache Friendliness
+4)Static and Dynamic Variants
+5)Simplicity
